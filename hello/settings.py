@@ -27,7 +27,7 @@ SECRET_KEY = '-srv*0if5of+ds28)aaqal5gun=1*%1j)22d21)d1(tk3h*4t*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['murmuring-citadel-54410.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['rahultestingforfirsttime.herokuapp.com','127.0.0.1']
 
 
 # Application definition
